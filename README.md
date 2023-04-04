@@ -58,6 +58,10 @@
 
 ---  
   
+  <img src="https://www.codewars.com/users/KutsenkoVitalii/badges/large"/>
+
+---
+
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitaliiKutsenko&theme=onedark&show_icons=true&count_private=true&hide_border=true" align="center" />
 </div>  
@@ -67,4 +71,3 @@
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliikutsenko&theme=onedark&hide_border=true&layout=compact" align="center" />
 </div>  
-<img src="https://www.codewars.com/users/KutsenkoVitalii/badges/large"/>
