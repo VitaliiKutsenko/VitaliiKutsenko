@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**VitaliiKutsenko/VitaliiKutsenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### <div align="center">Привет, меня зовут Виталий!</div>  
   
 
