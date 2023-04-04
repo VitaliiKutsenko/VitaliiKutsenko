@@ -17,7 +17,7 @@
 
 ### Связаться со мной  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/viatlii-kutsenko/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://camo.githubusercontent.com/e8005e7cba12a7d…f6e2e636f6d2f3531322f3134352f3134353831332e706e67 alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
 
