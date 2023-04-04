@@ -51,6 +51,7 @@
 ---  
   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=VitaliiKutsenko&theme=onedark&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliiKutsenko&theme=onedark&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VitaliiKutsenko&theme=dark&theme=dark&show_icons=true&count_private=true&hide_border=true" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitaliiKutsenko&theme=dark&hide_border=true&layout=compact" align="center" />
+</div>  
