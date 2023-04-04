@@ -66,6 +66,5 @@
   &nbsp;&nbsp;
   <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitaliikutsenko&theme=onedark&hide_border=true&layout=compact" align="center" />
-
 </div>  
-
+<img src="https://www.codewars.com/users/KutsenkoVitalii/badges/large"/>
