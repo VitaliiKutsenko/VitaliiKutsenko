@@ -19,7 +19,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/viatlii-kutsenko/" target="_blank">
 <img src=https://camo.githubusercontent.com/e8005e7cba12a7d…f6e2e636f6d2f3531322f3134352f3134353831332e706e67 alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
+  <img src="https://camo.githubusercontent.com/e8005e7cba12a7d7a844030ba9a19259bf56e6b5e921b4053aa82f7a7b38fe60/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3134352f3134353831332e706e67" width="40" height="40" alt="VK Badge" data-canonical-src="https://cdn-icons-png.flaticon.com/512/145/145813.png" style="max-width: 100%;">
 
 ---  
   
