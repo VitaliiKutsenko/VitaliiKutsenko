@@ -15,7 +15,10 @@
 ---  
 
   ### Ссылки на проекты:
- Ссылка:<a href="https://vitaliikutsenko.github.io/news_feed__TD/" target="_blank">Новостная лента</a>
+<a href="https://vitaliikutsenko.github.io/news_feed__TD/" target="_blank">Новостная лента</a>
+<br/>
+<a href="https://vitaliikutsenko.github.io/cv_client/" target="_blank">Сайт по созданию резюме</a>
+
 
 ---  
 
