@@ -11,13 +11,15 @@
 В настоящее время совершенствую свои навыки постепенно изучая backend (Node js) и Typescript.
 
 В будущем хочу освоить react-native для создания собственных мобильных приложений.  
-  
+
+---  
+
   ### Ссылки на проекты:
- Название: Новостная лента
- Теги: #javascript, #spa
- Ссылка: https://vitaliikutsenko.github.io/news_feed__TD/
+ Название: Новостная лента;
+ Теги: #javascript, #spa;
+ Ссылка:<a href="https://vitaliikutsenko.github.io/news_feed__TD/" target="_blank"> 
 
-
+---  
 
 ### Связаться со мной  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/viatlii-kutsenko/" target="_blank">
