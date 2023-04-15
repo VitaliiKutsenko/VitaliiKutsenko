@@ -15,9 +15,7 @@
 ---  
 
   ### Ссылки на проекты:
- Название: Новостная лента;
- Теги: #javascript, #spa;
- Ссылка:<a href="https://vitaliikutsenko.github.io/news_feed__TD/" target="_blank"> 
+ Ссылка:<a href="https://vitaliikutsenko.github.io/news_feed__TD/" target="_blank">Новостная лента</a>
 
 ---  
 
