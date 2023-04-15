@@ -19,7 +19,9 @@
 <br/>
 <a href="https://vitaliikutsenko.github.io/cv_client/" target="_blank">Сайт по созданию резюме (в разработке)</a>
 <br/>
-<a href="https://vitaliikutsenko.github.io/cv_client/" target="_blank">Игра Lucky Battle (в разработке)</a> 
+<a href="https://vitaliikutsenko.github.io/game/" target="_blank">Игра Lucky Battle (в разработке)</a> 
+<br/>
+<a href="https://vitaliikutsenko.github.io/landing_softline/" target="_blank">Landing Softline</a> 
 
 
 ---  
