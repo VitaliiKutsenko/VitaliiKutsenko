@@ -2,11 +2,6 @@
   
 
 Занимаюсь разработкой web-приложений на javascript более 2 лет.
-Обучался самостоятельно, используя:
-- документацию (mdn, react);
-- сайты (learn.javascript, medium, stackoverflow, hubr);
-- книги ("Выразительный javascript", "Вы не знаете javascript");
-- курсы (youtube, torrent).
 
 В настоящее время совершенствую свои навыки постепенно изучая backend (Node js) и Typescript.
 
